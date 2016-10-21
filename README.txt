@@ -1,0 +1,30 @@
+****   TaskFreak Multi-User with upload files option and bootstrapped (red skin only) 10-18-2016  ***
+*
+*   Upload files option has been changed to store actual files (as well as allow picture upload)  
+*   by name as well as by index, as many mobile *   devices will not handle the client side Java 
+*   to rename the downloaded files.
+*
+*
+*   All credit for original script goes to Stan Ozier and his contributers and can still be found at
+*   http://www.taskfreak.com/original
+*
+*******************************************************************************************************
+
+To do this modified version you can do it 2 ways.
+
+1.  Install original version from installed/taskfreak-multi-mysql-0.6.tgz, then drop all files from this  
+    version on top.
+    The README.txt file from the install folder has the information on how to install TaskFreak!
+    multiuser.    Only the CSS in the red Skins folder has been modified for mobile device bootstrapping.
+
+OR
+
+
+2.  Update include/config.php.txt to reflect your server and save it as include/config.php, drop all files on
+    your server.   Add the SQL from modified.sql to your database, and you are ready to go.
+
+
+
+
+
+Please open 

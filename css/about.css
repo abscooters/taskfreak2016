@@ -1,0 +1,24 @@
+.container {  position: relative; }
+
+.container:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-image: url('family.jpg');
+   opacity: 0.5;
+}
+
+
+.content {
+    position: relative; 
+    z-index: 2;
+}​
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
