@@ -1,4 +1,4 @@
-****   TaskFreak Multi-User with upload files option and bootstrapped (red skin only) 10-18-2016  ***
+****    TaskFreak Multi-User with upload files option and bootstrapped (red skin only) 10-18-2016  ***
 *
 *   Upload files option has been changed to store actual files (as well as allow picture upload)  
 *   by name as well as by index, as many mobile *   devices will not handle the client side Java 
